@@ -1,7 +1,7 @@
 {
   "name": "goit-react-hw-01-components",
   "version": "0.1.0",
-  "homepage": "https://hanna-vasylenko.github.io/hw-react",
+  "homepage": "https://hanna-vasylenko.github.io/goit-react-hw-01-components",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
